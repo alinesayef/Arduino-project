@@ -6,4 +6,4 @@ The Arduino IDE must be installed on your computer to run the .ino file, this ca
 To make modifications to the Fritzing .fzz file, you will need to donwload the Frtizing application from https://fritzing.org/.
 
 # License
-This software is subject to a license, please refer to the License file for mode information.
+This software is subject to a license, please refer to the license file for more information.
