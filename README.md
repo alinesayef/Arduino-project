@@ -5,5 +5,5 @@ The aim of this project was to design a system where an LM35 digital thermometer
 The Arduino IDE must be installed on your computer to run the .ino file, this can be downloaded from https://www.arduino.cc/en/software.
 To make modifications to the Fritzing .fzz file, you will need to donwload the Frtizing application from https://fritzing.org/.
 
-# Lisense
-This software is subject to a lisense, please refer to the Lisense file for mode information.
+# License
+This software is subject to a license, please refer to the License file for mode information.
